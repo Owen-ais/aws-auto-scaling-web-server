@@ -72,6 +72,22 @@ Within minutes, a new instance was automatically launched to replace it, demonst
 
 ---
 
+### Load Balancer (Active)
+<img src="Screenshots/load-balancer.png" width="700">
+
+### Target Group (Healthy Instances)
+<img src="Screenshots/target-group.png" width="700">
+
+---
+
+### Load Balanced Web Server - Instance 1
+<img src="Screenshots/web-server-1.png" width="700">
+
+### Load Balanced Web Server - Instance 2
+<img src="Screenshots/web-server-2.png" width="700">
+
+---
+
 ## User Data Script
 
 See `user-data.sh` for the script used to automatically configure EC2 instances.
