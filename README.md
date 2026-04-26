@@ -58,20 +58,17 @@ Within minutes, a new instance was automatically launched to replace it, demonst
 
 ## Screenshots
 
-### Load Balancer (Active)
-<img src="Screenshots/load-balancer.png" width="700">
+### EC2 Instances Running
+<img src="Screenshots/instances-running.png" width="700">
 
-### Target Group (Healthy Instances)
-<img src="Screenshots/target-group.png" width="700">
+### Instance Termination
+<img src="Screenshots/terminate-instance.png" width="700">
 
-### Load Balanced Web Server - Instance 1
-<img src="Screenshots/instance-1.png" width="700">
+### Instance Being Replaced
+<img src="Screenshots/instance-replacing.png" width="700">
 
-### Load Balanced Web Server - Instance 2
-<img src="Screenshots/instance-2.png" width="700">
-
-### Instance Replacement (Auto Scaling)
-<img src="Screenshots/instance-replacement.png" width="700">
+### New Instance Running
+<img src="Screenshots/new-instance-running.png" width="700">
 
 ---
 
