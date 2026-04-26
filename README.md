@@ -76,7 +76,7 @@ Within minutes, a new instance was automatically launched to replace it, demonst
 <img src="Screenshots/load-balancer.png" width="700">
 
 ### Target Group (Healthy Instances)
-<img src="Screenshots/target-group.png" width="700">
+<img src="Screenshots/target-group-healthy.png" width="700">
 
 ---
 
